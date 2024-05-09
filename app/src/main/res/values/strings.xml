@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GameRPS</string>
+    <string name="valider">Valider</string>
+    <string name="name_of_player_1">Name of player 1</string>
+    <string name="name_of_player_2">Name of player 2</string>
+    <string name="Resualt1">Equality</string>
+    <string name="Resualt2">Win</string>
+    <string name="play">play</string>
+</resources>
